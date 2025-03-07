@@ -424,8 +424,8 @@ span.cafe {
 @media (max-width: 768px) {
     #home {
         height: 80vh;
-        background-size: top;
-        background-position: center;
+        background-size: cover;
+        background-position: top;
         margin-top: 70px; /* Adjusted for fixed navbar */
         
         width: 100%;
