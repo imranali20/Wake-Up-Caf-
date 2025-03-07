@@ -397,7 +397,7 @@ span.cafe {
 
     .mobile-menu.active {
         display: block;
-        top: 99px;
+        top: 70px;
     }
 
     .mobile-menu ul {
@@ -416,7 +416,7 @@ span.cafe {
 
 @media (max-width: 768px) {
     section {
-        padding: 107px 15px;
+        padding: 28px 15px;
     }
 }
 
@@ -493,7 +493,7 @@ span.cafe {
 
 @media (max-width: 768px) {
     #contact {
-        padding: 118px 10px;
+        padding: 80px 10px;
     }
 
     .contact-form-container, .contact-info {
