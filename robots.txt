@@ -1,5 +1,0 @@
-User-agent: *
-Disallow: /admin/
-Disallow: /login/
-Disallow: /checkout/
-Sitemap: https://imranali20.github.io/Wake-Up-Caf-/sitemap.xml
